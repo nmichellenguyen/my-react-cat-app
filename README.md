@@ -1,6 +1,6 @@
 My-meow-app | Created by Michelle Nguyen | https://my-meow-app-react.netlify.com
 
-Cat App
+//Cat App
 Let's get started meow.
 
 Step 1: Create a new base app.
@@ -102,9 +102,9 @@ Rocket 7: Add a Cat
 Create a small form with the appropriate fields to add to the global CATS array. (Similar to your Todo list)
 
 Rocket 8: Search for cats
-Create a second input field. On change, filter the list of cats by the value of the textfield.
+Create a second input field. On change, filter the list of cats by the value of the textfield.//
 
-//This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+//This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).//
 
 ## Available Scripts
 
